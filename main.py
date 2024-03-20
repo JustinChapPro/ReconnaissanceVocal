@@ -79,7 +79,6 @@ def listen_print_loop(responses, keyword):
 def main():
     # !!! IMPORTANT Veuillez mettre votre .json pour utilliser Google api SpeechRecognition sinon cela ne marchera pas !!!
     credentials = service_account.Credentials.from_service_account_file("Mettre fichier .json ici!")
-s
     client = speech.SpeechClient(credentials=credentials)
 
     config = speech.RecognitionConfig(
