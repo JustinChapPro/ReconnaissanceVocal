@@ -16,7 +16,7 @@ Vous pouvez les installer en utilisant pip :
 - pip install pyaudio google-cloud-speech google-auth
 ## Configuration
 Authentification Google Cloud : Avant d'exécuter le script, assurez-vous de disposer d'un fichier de credentials JSON pour l'API Google Cloud Speech-to-Text.
-Définissez la variable d'environnement GOOGLE_APPLICATION_CREDENTIALS en pointant vers votre fichier de credentials JSON :
+Définissez la variable d'environnement GOOGLE_APPLICATION_CREDENTIALS en pointant vers votre fichier de credentials JSON 
 - export GOOGLE_APPLICATION_CREDENTIALS="chemin/vers/votre/fichier-de-credentials.json"
 Sur Windows, utilisez :
 - set GOOGLE_APPLICATION_CREDENTIALS=chemin\vers\votre\fichier-de-credentials.json
