@@ -36,5 +36,5 @@ Le script écoute en continu le microphone par défaut de votre système et anal
 - Email: justinchaps@hotmail.com
 
 ## Licence
-
+- Distribué sous la Licence General Public License(GNU). Voir le fichier LICENSE pour plus d'informations.
 
